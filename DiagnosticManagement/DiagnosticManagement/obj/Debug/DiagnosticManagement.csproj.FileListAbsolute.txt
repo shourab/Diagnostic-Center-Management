@@ -1,0 +1,45 @@
+E:\Explore.Net\Class19\DiagnosticManagement\DiagnosticManagement\obj\Debug\DiagnosticManagement.csprojResolveAssemblyReference.cache
+E:\Explore.Net\Class19\DiagnosticManagement\DiagnosticManagement\bin\DiagnosticManagement.dll.config
+E:\Explore.Net\Class19\DiagnosticManagement\DiagnosticManagement\bin\DiagnosticManagement.dll
+E:\Explore.Net\Class19\DiagnosticManagement\DiagnosticManagement\bin\DiagnosticManagement.pdb
+E:\Explore.Net\Class19\DiagnosticManagement\DiagnosticManagement\obj\Debug\DiagnosticManagement.dll
+E:\Explore.Net\Class19\DiagnosticManagement\DiagnosticManagement\obj\Debug\DiagnosticManagement.pdb
+C:\Users\SONY\Documents\Visual Studio 2013\Projects\DiagnosticManagement\DiagnosticManagement\obj\Debug\DiagnosticManagement.csprojResolveAssemblyReference.cache
+C:\Users\SONY\Documents\Visual Studio 2013\Projects\DiagnosticManagement\DiagnosticManagement\obj\Debug\DiagnosticManagement.dll
+C:\Users\SONY\Documents\Visual Studio 2013\Projects\DiagnosticManagement\DiagnosticManagement\obj\Debug\DiagnosticManagement.pdb
+C:\Users\SONY\Documents\Visual Studio 2013\Projects\DiagnosticManagement\DiagnosticManagement\bin\DiagnosticManagement.dll.config
+C:\Users\SONY\Documents\Visual Studio 2013\Projects\DiagnosticManagement\DiagnosticManagement\bin\DiagnosticManagement.dll
+C:\Users\SONY\Documents\Visual Studio 2013\Projects\DiagnosticManagement\DiagnosticManagement\bin\DiagnosticManagement.pdb
+C:\Users\SONY\Documents\Visual Studio 2013\Projects\DiagnosticManagement\DiagnosticManagement\bin\itextsharp.dll
+C:\Users\SONY\Documents\Visual Studio 2013\Projects\DiagnosticManagement\DiagnosticManagement\bin\itextsharp.xml
+C:\Users\Web App Develop .Net\Desktop\DiagnosticManagement-20161102T121201Z\DiagnosticManagement\DiagnosticManagement\bin\DiagnosticManagement.dll.config
+C:\Users\Web App Develop .Net\Desktop\DiagnosticManagement-20161102T121201Z\DiagnosticManagement\DiagnosticManagement\bin\DiagnosticManagement.dll
+C:\Users\Web App Develop .Net\Desktop\DiagnosticManagement-20161102T121201Z\DiagnosticManagement\DiagnosticManagement\bin\DiagnosticManagement.pdb
+C:\Users\Web App Develop .Net\Desktop\DiagnosticManagement-20161102T121201Z\DiagnosticManagement\DiagnosticManagement\bin\itextsharp.xml
+C:\Users\Web App Develop .Net\Desktop\DiagnosticManagement-20161102T121201Z\DiagnosticManagement\DiagnosticManagement\obj\Debug\DiagnosticManagement.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\DiagnosticManagement-20161102T121201Z\DiagnosticManagement\DiagnosticManagement\obj\Debug\DiagnosticManagement.dll
+C:\Users\Web App Develop .Net\Desktop\DiagnosticManagement-20161102T121201Z\DiagnosticManagement\DiagnosticManagement\obj\Debug\DiagnosticManagement.pdb
+C:\Users\Web App Develop .Net\Desktop\DiagnosticManagement-20161102T121201Z\DiagnosticManagement\DiagnosticManagement\bin\itextsharp.pdfa.dll
+C:\Users\Web App Develop .Net\Desktop\DiagnosticManagement-20161102T121201Z\DiagnosticManagement\DiagnosticManagement\bin\itextsharp.xtra.dll
+C:\Users\SONY\Desktop\DiagnosticManagement-20161102T121201Z-20161102T184847Z\DiagnosticManagement-20161102T121201Z\DiagnosticManagement\DiagnosticManagement\bin\DiagnosticManagement.dll.config
+C:\Users\SONY\Desktop\DiagnosticManagement-20161102T121201Z-20161102T184847Z\DiagnosticManagement-20161102T121201Z\DiagnosticManagement\DiagnosticManagement\bin\DiagnosticManagement.dll
+C:\Users\SONY\Desktop\DiagnosticManagement-20161102T121201Z-20161102T184847Z\DiagnosticManagement-20161102T121201Z\DiagnosticManagement\DiagnosticManagement\bin\DiagnosticManagement.pdb
+C:\Users\SONY\Desktop\DiagnosticManagement-20161102T121201Z-20161102T184847Z\DiagnosticManagement-20161102T121201Z\DiagnosticManagement\DiagnosticManagement\bin\itextsharp.dll
+C:\Users\SONY\Desktop\DiagnosticManagement-20161102T121201Z-20161102T184847Z\DiagnosticManagement-20161102T121201Z\DiagnosticManagement\DiagnosticManagement\bin\itextsharp.xml
+C:\Users\SONY\Desktop\DiagnosticManagement-20161102T121201Z-20161102T184847Z\DiagnosticManagement-20161102T121201Z\DiagnosticManagement\DiagnosticManagement\obj\Debug\DiagnosticManagement.csprojResolveAssemblyReference.cache
+C:\Users\SONY\Desktop\DiagnosticManagement-20161102T121201Z-20161102T184847Z\DiagnosticManagement-20161102T121201Z\DiagnosticManagement\DiagnosticManagement\obj\Debug\DiagnosticManagement.dll
+C:\Users\SONY\Desktop\DiagnosticManagement-20161102T121201Z-20161102T184847Z\DiagnosticManagement-20161102T121201Z\DiagnosticManagement\DiagnosticManagement\obj\Debug\DiagnosticManagement.pdb
+C:\Users\SONY\Desktop\Final project\DiagnosticManagement\DiagnosticManagement\bin\DiagnosticManagement.dll.config
+C:\Users\SONY\Desktop\Final project\DiagnosticManagement\DiagnosticManagement\bin\DiagnosticManagement.dll
+C:\Users\SONY\Desktop\Final project\DiagnosticManagement\DiagnosticManagement\bin\DiagnosticManagement.pdb
+C:\Users\SONY\Desktop\Final project\DiagnosticManagement\DiagnosticManagement\bin\itextsharp.xml
+C:\Users\SONY\Desktop\Final project\DiagnosticManagement\DiagnosticManagement\obj\Debug\DiagnosticManagement.csprojResolveAssemblyReference.cache
+C:\Users\SONY\Desktop\Final project\DiagnosticManagement\DiagnosticManagement\obj\Debug\DiagnosticManagement.dll
+C:\Users\SONY\Desktop\Final project\DiagnosticManagement\DiagnosticManagement\obj\Debug\DiagnosticManagement.pdb
+H:\Final project\DiagnosticManagement\DiagnosticManagement\bin\DiagnosticManagement.dll.config
+H:\Final project\DiagnosticManagement\DiagnosticManagement\bin\DiagnosticManagement.dll
+H:\Final project\DiagnosticManagement\DiagnosticManagement\bin\DiagnosticManagement.pdb
+H:\Final project\DiagnosticManagement\DiagnosticManagement\bin\itextsharp.xml
+H:\Final project\DiagnosticManagement\DiagnosticManagement\obj\Debug\DiagnosticManagement.csprojResolveAssemblyReference.cache
+H:\Final project\DiagnosticManagement\DiagnosticManagement\obj\Debug\DiagnosticManagement.dll
+H:\Final project\DiagnosticManagement\DiagnosticManagement\obj\Debug\DiagnosticManagement.pdb
